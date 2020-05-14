@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="PrivateResource">Mapping</string>
+    <string name="MAPBOX_ACCESS_TOKEN">pk.eyJ1Ijoia2F0ZTk3MDgxOSIsImEiOiJjazllYXA4a20wMGJ5M3BxYm1kZHR5djF5In0.de_wnEWEQlNgLNSHM95dlg</string>
+</resources>
