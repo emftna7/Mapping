@@ -88,6 +88,8 @@ public class MainActivity extends AppCompatActivity implements MapView.MapViewEv
             Timber.plant(new Timber.DebugTree());
         }
 
+        Timber.i("hi it is test");
+
         //xml에서 불러오기
         Button button = findViewById(R.id.button);
         Button routeButton = findViewById(R.id.routebutton);
